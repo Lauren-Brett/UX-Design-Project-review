@@ -10,4 +10,5 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 Colour Palette
 
+![](images/colour-palette-pycp.png)
 
