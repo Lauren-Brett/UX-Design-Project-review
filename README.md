@@ -8,6 +8,12 @@ I am currently undertaking a group charity project for Pilton Youth and Children
 
 As the first UX team to take on the project, we quickly identified that we needed to take a step sideways and evaluate the project as a whole.
 
+Vision of refactor
+
+![](images/vision-refactor-pycp.png)
+
+
+
 Colour Palette
 
 ![](images/colour-palette-pycp.png)
