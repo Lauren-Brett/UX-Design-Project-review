@@ -10,4 +10,4 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 Colour Palette
 
-![](images/Screenshot%202020-05-08%20at%2011.21.10.png)
+
