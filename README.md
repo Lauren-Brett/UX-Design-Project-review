@@ -10,13 +10,13 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 #### User Journey Map
 
-
 <img src="./images/before-refactor-pycp.png" alt="Before refactor diagram" width="500" />
+
+
 
 #### Vision of refactor
 
-![user journey refactor](images/vision-refactor-pycp.png)
-
+<img src="./images/vision-refactor-pycp.png" alt="after refactor diagram" width="500" />
 
 
 ### Colour Palette
