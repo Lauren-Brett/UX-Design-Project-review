@@ -14,7 +14,8 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 
 
-#### Vision of refactor:
+
+#### The vision of the refactor in this sprint:
 
 <img src="./images/vision-refactor-pycp.png" alt="after refactor diagram" width="500" />
 
