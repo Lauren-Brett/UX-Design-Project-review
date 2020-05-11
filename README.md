@@ -10,7 +10,7 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 ### User Journey Map
 
-
+![](images/before-refactor-pycp.png)
 
 ### Vision of refactor
 
