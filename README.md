@@ -10,8 +10,8 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 #### User Journey Map
 
-![user journey before refactor](images/before-refactor-pycp.png | width=100)
 
+<img src="images/vision-refactor-pycp.png" alt="Vision of refactor diagram" width="200" />
 
 #### Vision of refactor
 
