@@ -10,8 +10,8 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 #### User Journey Map as we inherited the app as:
 
-<img src="./images/before-refactor-pycp.png" alt="Before refactor diagram" width="500" />
-
+<img src="./images/before-refactor-pycp.png" alt="Before refactor diagram" width="500" align="center" />
+ 
 
 
 
