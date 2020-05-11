@@ -8,13 +8,13 @@ I am currently undertaking a group charity project for Pilton Youth and Children
 As the first UX team to take on the project, we quickly identified that we needed to take a step sideways and evaluate the project as a whole.
 
 
-#### User Journey Map
+#### User Journey Map as we inherited the app as:
 
 <img src="./images/before-refactor-pycp.png" alt="Before refactor diagram" width="500" />
 
 
 
-#### Vision of refactor
+#### Vision of refactor:
 
 <img src="./images/vision-refactor-pycp.png" alt="after refactor diagram" width="500" />
 
