@@ -15,7 +15,7 @@ As the first UX team to take on the project, we quickly identified that we neede
 
 
 
-#### The vision of the refactor in this sprint:
+#### This is the refactor we are currently working on:
 
 <img src="./images/vision-refactor-pycp.png" alt="after refactor diagram" width="500" />
 
