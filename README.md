@@ -7,6 +7,8 @@ I am currently working on a charity project for Pilton Youth and Children's Proj
 
 As the first UX team to take on the project, we quickly identified that we needed to take a step sideways and evaluate the project as a whole.
 
+For a more detailed review please visit my [Behance](https://www.behance.net/laurenbrett).
+
 
 #### User Journey Map as we inherited the app as:
 
